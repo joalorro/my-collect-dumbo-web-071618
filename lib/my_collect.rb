@@ -8,7 +8,7 @@ def my_collect array
     i += 1 
   end
   
-  print newArr
+  puts newArr
 end
 
 my_collect myDogs do |homies|
